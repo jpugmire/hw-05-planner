@@ -8,4 +8,4 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 ### Screenshot
 ![alt test](./screenshot.png)
 
-## [Deployed Link]()
+## [Deployed Link](https://jpugmire.github.io/hw-05-planner/)
